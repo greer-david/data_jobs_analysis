@@ -8,7 +8,7 @@ Question: What are the most optimal skills to learn (aka it’s in high demand a
 
 */
 
--- Optimal Skills (High Pay & High Demand)
+-- Optimal Skills (High Pay & High Demand) for data & business analysts
 
 WITH top_sal AS (
 SELECT
@@ -38,6 +38,39 @@ FROM
 WHERE
     avg_salary > 80000
     AND job_post_count > 1500
+ORDER BY
+    avg_salary DESC
+;
+
+-- Optimal Skills for all jobs
+
+WITH top_sal AS (
+SELECT
+    skills,
+    ROUND(AVG(COALESCE(salary_year_avg, salary_hour_avg * 2080))) avg_salary,
+    COUNT(*) job_post_count
+FROM
+    job_postings_fact jp
+JOIN
+    skills_job_dim sj
+ON
+    jp.job_id = sj.job_id
+JOIN
+    skills_dim s
+ON
+    sj.skill_id = s.skill_id
+WHERE
+    ROUND(COALESCE(salary_year_avg, salary_hour_avg * 2080)) IS NOT NULL
+GROUP BY
+    skills
+)
+SELECT
+    *
+FROM
+    top_sal
+WHERE
+    avg_salary > 80000
+    AND job_post_count > 3000
 ORDER BY
     avg_salary DESC
 ;

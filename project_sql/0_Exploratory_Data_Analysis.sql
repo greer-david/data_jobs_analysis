@@ -191,20 +191,3 @@ ORDER BY
     post_count DESC
 ;
 
--- Query for Skill demand histogram
-
-SELECT
-    skills,
-    job_id
-FROM
-    skills_job_dim sj
-JOIN
-    skills_dim s
-ON
-    sj.skill_id = s.skill_id
-GROUP BY
-    skills
-ORDER BY
-    skill_cnt DESC
-;
-
