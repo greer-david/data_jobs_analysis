@@ -3,10 +3,7 @@
 ## Introduction
 
 Explore the data job market! This project dives into job postings within the data analytics field, examining top-paying positions, in-demand skills, and the overlap of high demand with high salaries in data analytics roles.
-### Key Insights
 
-- [Summarize the most significant findings from your analysis]
-- [Highlight any important trends observed in the data]
 ## Background
 
 This project aims to provide insights into the data analyst job market, documenting exploratory data analysis (EDA) findings and answering key questions about top-paying roles, required skills, and market trends.
