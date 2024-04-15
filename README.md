@@ -135,7 +135,7 @@ management, and distributed computing.
 
 ![Essential Skills for Premium Roles](assets/2_Top_Jobs_Skills.png)
 
-### 3. How Do Data & Business Analysts’ Skillsets Differ From Other Data Jobs
+### 3. How Do Data & Business Analysts’ Skill Sets Differ From Other Data Jobs
 
 A comparison of the broader skill types found in job postings is given in this section.
 
