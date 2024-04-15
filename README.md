@@ -15,7 +15,7 @@ Data for this analysis was sourced from Luke Barousse's [SQL Course](https://luk
 Key questions addressed by this analysis include:
 1. What are the top-paying data & business analyst positions?
 2. What skills are required for these top-paying jobs?
-3. Which skill types should prospective data & business Analysts focus on?
+3. Which skill types should prospective data & business analysts focus on?
 4. What skills are most in demand for data & business analysts?
 5. Which skills correlate with higher salaries?
 6. What are the most strategic skills to learn?
