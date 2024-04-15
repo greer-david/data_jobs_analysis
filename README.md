@@ -65,7 +65,7 @@ available in various regions across the United States with most of these regions
 consulting firms, and healthcare organizations. This diversity reflects the wide range of industries that require skilled
 Data and Business Analysts and the opportunities available across various sectors.
 
-![Premium Data & Business Analyst Positions](assets\1_Top_Paying_Jobs_Dash.png)
+![Premium Data & Business Analyst Positions](assets/1_Top_Paying_Jobs_Dash.png)
 
 ### 2. Essential Skills for Premium Roles
 
@@ -131,7 +131,7 @@ and analytics.
 also in demand, reflecting the need for skills in data processing, workflow
 management, and distributed computing.
 
-![Essential Skills for Premium Roles](assets\2_Top_Jobs_Skills.png)
+![Essential Skills for Premium Roles](assets/2_Top_Jobs_Skills.png)
 
 ### 3. How Do Data & Business Analysts’ Skillsets Differ From Other Data Jobs
 
@@ -229,7 +229,7 @@ This suggests that while cloud and library skills are important across all
 data roles, they may be relatively less emphasized in data & business
 analyst roles.
 
-![Skill Type Comparison](assets\3_Skill_Type_Comp.png)
+![Skill Type Comparison](assets/3_Skill_Type_Comp.png)
 
 ### 4. High-Demand Skills for Data & Business Analysts
 
@@ -276,7 +276,7 @@ among the top in-demand skills. This suggests that proficiency in statistical an
 and modeling remains valuable in the field of data and business analysis, particularly
 for roles that require advanced analytics capabilities.
 
-![High-Demand Skills for Data & Business Analysts](assets\3_Top_Demanded_Skills.png)
+![High-Demand Skills for Data & Business Analysts](assets/3_Top_Demanded_Skills.png)
 
 ### 5. Skills Impacting Salary
 
@@ -320,7 +320,7 @@ pay a premium for specialized skills.
 This indicates a significant potential for high earning within the data and business analysis field, especially
 for those with expertise in niche or in-demand areas.
 
-![Highest Paid Skills for Data & Business Analysts](assets\5_Top_Paid_Skills.png)
+![Highest Paid Skills for Data & Business Analysts](assets/5_Top_Paid_Skills.png)
 
 ### 6. Most Strategic Skills for Career Growth
 
@@ -404,7 +404,7 @@ based on its combination of a high average salary and its high demand, indicatin
 
 - **Salary Versus Demand**: Specialized skills in big data technologies command higher salaries, but more generalist skills like SQL and Python have greater job demand, suggesting a trade-off between specialization and broader market appeal in terms of job opportunities.
 
-![Highest Paid Skills for Data & Business Analysts](assets\5_Optimal_Skills.png)
+![Highest Paid Skills for Data & Business Analysts](assets/5_Optimal_Skills.png)
 
 ### 7. Top-Paying Companies for Data & Business Analysts
 
@@ -443,7 +443,7 @@ LIMIT 10
 - **High-Level Positions Hosted by Recruiting Companies**: The rest of the top 10 is filled out with various roles
 hosted by technical recruitings/consulting companies.
 
-![Highest Paying Companies for Data & Business Analysts](assets\7_Top_Paying_Companies.png)
+![Highest Paying Companies for Data & Business Analysts](assets/7_Top_Paying_Companies.png)
 
 ### 8. Cities with the Best Job Market for Data & Business Analysts
 
