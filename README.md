@@ -15,7 +15,7 @@ Data for this analysis was sourced from Luke Barousse's [SQL Course](https://luk
 Key questions addressed by this analysis include:
 1. What are the top-paying data & business analyst positions?
 2. What skills are required for these top-paying jobs?
-3. Which skill types should prospective Data & Business Analysts focus on?
+3. Which skill types should prospective data & business Analysts focus on?
 4. What skills are most in demand for data & business analysts?
 5. Which skills correlate with higher salaries?
 6. What are the most strategic skills to learn?
@@ -224,12 +224,10 @@ and visualization, as well as programming languages for data manipulation
 and scripting.
 
 - **Skill Type Differences**: Analyst tools have a much higher skill share
-for data & business analysts(41.56%) compared to all data jobs (17.24%).
-Similarly, cloud-related skills have a higher skill share in
-all data jobs (15.05%) compared to data & business analysts (7.84%).
-This suggests that while cloud and library skills are important across all
-data roles, they may be relatively less emphasized in data & business
-analyst roles.
+for data & business analysts (41.56%) compared to all data jobs (17.24%).
+On the other hand, cloud-related skills have a higher skill share in
+all data jobs (15.05%) compared to data & business analysts (7.84%). Similarly, Libraries are more prevalent in all data jobs (14.2%) than they are for data & business analysts (4.2%).
+This suggests that analyst tools are more important for data & business analysts to specialize in, while cloud and library skills are important if one wants to work in other roles in the broader data market.
 
 ![Skill Type Comparison](assets/3_Skill_Type_Comp.png)
 
