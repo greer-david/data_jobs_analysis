@@ -522,3 +522,41 @@ showcasing vibrant markets, despite varying average salaries ranging from
 approximately $64,148 to $102,542.
 
 ![Cities With The Highest Average Salaries](assets/8_Top_Cities.png)
+
+# Conclusions
+## Insights
+These are some of the most important insights that I gleaned from my analysis:
+### 1. Premium Data & Business Analyst Positions
+
+- **Salary Range**: Highly compensated roles range from $375,000 to $813,280 annually, reflecting specialized skills and responsibilities.
+  
+### 2. Essential Skills for Premium Roles
+
+- **Programming Languages**: SQL and Python are crucial skills for data analysts, facilitating data analysis and automation.
+  
+### 3. How Do Data & Business Analysts’ Skill Sets Differ From Other Data Jobs
+
+- **Analyst Tools and Programming**: Analysts prioritize tools like SQL and programming, emphasizing data manipulation and visualization over cloud-related skills.
+  
+### 4. High-Demand Skills for Data & Business Analysts
+
+- **Foundational Skills**: SQL, Excel, and Python are top skills, essential for data manipulation, visualization, and analysis.
+  
+### 5. Skills Impacting Salary
+
+- **Emerging Technologies**: Skills like blockchain (Solidity) and cloud computing (DigitalOcean) command high salaries, reflecting demand for cutting-edge expertise.
+  
+### 6. Most Strategic Skills for Career Growth
+
+- **Python Dominance**: Python stands out as a strategic skill for high demand and salary across data & business analyst roles and all data jobs.
+  
+### 7. Top-Paying Companies for Data & Business Analysts
+
+- **TikTok Leads in Salary**: TikTok offers the highest average salary, with financial giants like Citigroup also providing lucrative opportunities.
+  
+### 8. Cities with the Best Job Market for Data & Business Analysts
+
+- **Virginia's Lucrative Markets**: Virginia cities offer lucrative opportunities, with average salaries ranging from $96,035 to $121,438 annually.
+
+## Closing Thoughts
+Through this project, I was able to grow and solidify my SQL, Tableau, and story-telling skills.  Along with my personal development, I was able to get a better, more synthesized picture of the current job market for my desired jobs.The information found in this data set can be used to help prospective data professionals looking to improve their job search.  This analysis highlights important skills, top companies, and top areas in my desired regions to live in for data and business analyst positions.
