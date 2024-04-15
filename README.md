@@ -4,21 +4,23 @@
 
 Explore the data job market! This project dives into job postings within the data analytics field, examining top-paying positions, in-demand skills, and the overlap of high demand with high salaries in data analytics roles.
 
+Check out my queries for this project here: [project_sql folder](/project_sql/)
+
 ## Background
 
 This project aims to provide insights into the data analyst job market, documenting exploratory data analysis (EDA) findings and answering key questions about top-paying roles, required skills, and market trends.
 
-Data for this analysis was sourced from [provide details on the dataset source, if applicable].
+Data for this analysis was sourced from Luke Barousse's [SQL Course](https://lukebarousse.com/sql).
 
 Key questions addressed by this analysis include:
-- What are the top-paying data & business analyst positions?
-- What skills are required for these top-paying jobs?
-- Which skill types should prospective Data & Business Analysts focus on?
-- What skills are most in demand for data & business analysts?
-- Which skills correlate with higher salaries?
-- What are the most strategic skills to learn?
-- What are the leading companies offering top-paying roles for data & business analysts?
-- Which cities present the most favorable job market for data & business analysts?
+1. What are the top-paying data & business analyst positions?
+2. What skills are required for these top-paying jobs?
+3. Which skill types should prospective Data & Business Analysts focus on?
+4. What skills are most in demand for data & business analysts?
+5. Which skills correlate with higher salaries?
+6. What are the most strategic skills to learn?
+7. What are the leading companies offering top-paying roles for data & business analysts?
+8. Which cities present the most favorable job market for data & business analysts?
 
 ## Tools Used
 
