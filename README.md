@@ -521,4 +521,4 @@ opportunities for analysts, with cities like Jacksonville, Tampa, and Miami
 showcasing vibrant markets, despite varying average salaries ranging from
 approximately $64,148 to $102,542.
 
-![Cities With The Highest Average Salaries](assets\8_Top_Cities.png)
+![Cities With The Highest Average Salaries](assets/8_Top_Cities.png)
