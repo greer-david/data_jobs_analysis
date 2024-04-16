@@ -6,7 +6,7 @@ Explore the data job market! This project dives into job postings within the dat
 
 Check out my queries for this project here: [project_sql folder](/project_sql/)
 
-For a more in depth look at my visualizations for this project, check out my Tableau Public account: [David Greer Tableau Public](https://public.tableau.com/app/profile/david.greer5377/vizzes)
+For a more in depth look at my visualizations for this project, check out my Tableau Public account: [David Greer Tableau Public](https://public.tableau.com/app/profile/greer.david/vizzes)
 ## Background
 
 This project aims to provide insights into the data analyst job market, documenting exploratory data analysis (EDA) findings and answering key questions about top-paying roles, required skills, and market trends.
